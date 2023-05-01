@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Braah+One&family=Kanit:wght@300&family=Quicksand&family=Ysabeau&display=swap');
+body{
+    margin: 0%;
+    background-image: url("./images/sardines-g4b2f59c5e_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4,h6,h3{
+    font-family: 'Kanit', sans-serif;
+}
